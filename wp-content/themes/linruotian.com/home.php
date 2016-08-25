@@ -151,7 +151,7 @@
 							</div>
 						</div>	
 						<div class="item">
-							<a href="mapFO4.html" target="_blank">
+							<a href="<?php bloginfo('template_directory'); ?>/mapFO4.html" target="_blank">
 								<img src="<?php bloginfo('template_directory'); ?>/Pic/FO4Map.png" alt="Fallout 4 map">								
 							</a>
 							<div class="carousel-caption">
