@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable = 0" name="viewport" />
 <title>Welcome to linruotian!</title>
+<link rel="shortcut icon" type="image/x-icon" href="<?php bloginfo('template_directory'); ?>/favicon.ico" />
 <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/bootstrap.min.css" />
 
 <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/bootstrap-theme.min.css" />
@@ -54,10 +55,10 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portal <span class="caret"></span></a>
 						<ul class="dropdown-menu">
-							<li><a href="#">FO4 map</a></li>
+							<li><a href="<?php bloginfo('template_directory'); ?>/mapFO4.html" target="_blank">FO4 map</a></li>
 							<li role="separator" class="divider"></li>
-							<li><a href="#">Billy's steam account</a></li>
-							<li><a href="#">Steve's steam account</a></li>
+							<li><a href="http://steamcommunity.com/profiles/76561198043495159/" target="_blank">Billy's steam account</a></li>
+							<li><a href="http://steamcommunity.com/profiles/76561198069492267/" target="_blank">Steve's steam account</a></li>
 						</ul>
 					</li>
 				</ul>
@@ -69,10 +70,10 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portal <span class="caret"></span></a>
 						<ul class="dropdown-menu">
-							<li><a href="mapFO4.html">FO4 map</a></li>
+							<li><a href="<?php bloginfo('template_directory'); ?>/mapFO4.html" target="_blank">FO4 map</a></li>
 							<li role="separator" class="divider"></li>
-							<li><a href="http://steamcommunity.com/profiles/76561198043495159/">Billy's steam account</a></li>
-							<li><a href="http://steamcommunity.com/profiles/76561198069492267/">Steve's steam account</a></li>
+							<li><a href="http://steamcommunity.com/profiles/76561198043495159/" target="_blank">Billy's steam account</a></li>
+							<li><a href="http://steamcommunity.com/profiles/76561198069492267/" target="_blank">Steve's steam account</a></li>
 						</ul>
 					</li>
 				</ul>
