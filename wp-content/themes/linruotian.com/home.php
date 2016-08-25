@@ -151,7 +151,7 @@
 							</div>
 						</div>	
 						<div class="item">
-							<a href="<?php bloginfo('template_directory'); ?>/mapFO4.html" target="_blank">
+							<a href="<?php bloginfo('template_directory'); ?>/mapFO4.php" target="_blank">
 								<img src="<?php bloginfo('template_directory'); ?>/Pic/FO4Map.png" alt="Fallout 4 map">								
 							</a>
 							<div class="carousel-caption">
@@ -185,7 +185,7 @@
 							<td><a href="<?php //bloginfo('template_directory'); ?>/HTML WC world/index.html">wc 5 JQ</a></td> <td>★★★★★</td>
 						</tr> -->
 						<tr>
-							<td><a href="<?php bloginfo('template_directory'); ?>/mapFO4.html">mapFO4</a></td> <td>★★</td>
+							<td><a href="<?php bloginfo('template_directory'); ?>/mapFO4.php">mapFO4</a></td> <td>★★</td>
 						</tr>						
 					</tbody>
 				</table>
