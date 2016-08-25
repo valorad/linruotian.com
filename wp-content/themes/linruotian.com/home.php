@@ -181,11 +181,11 @@
 						<td>Site</td> <td>Rate</td>
 					</thead>			
 					<tbody>
+<!-- 						<tr>
+							<td><a href="<?php //bloginfo('template_directory'); ?>/HTML WC world/index.html">wc 5 JQ</a></td> <td>★★★★★</td>
+						</tr> -->
 						<tr>
-							<td><a href="HTML WC world/index.html">wc 5 JQ</a></td> <td>★★★★★</td>
-						</tr>
-						<tr>
-							<td><a href="mapFO4.html">mapFO4</a></td> <td>★★</td>
+							<td><a href="<?php bloginfo('template_directory'); ?>/mapFO4.html">mapFO4</a></td> <td>★★</td>
 						</tr>						
 					</tbody>
 				</table>
