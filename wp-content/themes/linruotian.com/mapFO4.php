@@ -4,12 +4,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8" name="viewport" content="initial-scale=1.0 width=device-width height = device-height user-scalable = no"  />
 <title>FO4 Map</title>
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/bootstrap-theme.min.css">
-<link rel="stylesheet" href="css/mapFO4.css">
-<script src="js/jquery-2.2.0.min.js"></script>
-<script src="js/timer.jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/bootstrap.min.css">
+<link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/mapFO4.css">
+<script src="<?php bloginfo('template_directory'); ?>/js/jquery-2.2.0.min.js"></script>
+<script src="<?php bloginfo('template_directory'); ?>/js/timer.jquery.min.js"></script>
+<script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.min.js"></script>
 <script type="text/javascript">
 	var screenY = $(window).height();
 
@@ -50,7 +50,7 @@
 
 	<div id="divTip1" class="col-md-3">
 		<div id="divTpic">
-			<img class="img-responsive" src="Pic/map-VB.png" alt="VB">
+			<img class="img-responsive" src="<?php bloginfo('template_directory'); ?>/Pic/map-VB.png" alt="VB">
 			<span>linruotian.com</span>
 		</div>
 		<div id="divTword">
