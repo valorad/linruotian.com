@@ -173,3 +173,8 @@ App_Data/*.ldf
 ##
 # Custom in linruotian.com
 ##
+
+*.*
+!/wp-content/themes/linruotian.com
+!/LICENSE
+!/.gitignore
